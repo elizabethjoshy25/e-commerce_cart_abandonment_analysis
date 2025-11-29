@@ -38,3 +38,6 @@ To analyze customer behaviour from cart creation to checkout and identify patter
      -Whether price or brand influences cart completion
      -How overall abandonment rate changes over time
 
+### 🔗 Live Dashboard
+View the dashboard here: [https://lookerstudio.google.com/s/abc123](https://lookerstudio.google.com/reporting/5754e6ae-a86e-4f3a-a597-de2852e9a065)
+
